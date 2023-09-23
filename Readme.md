@@ -10,4 +10,4 @@ python app.py
 
 ## Database
 
-It uses a MySQL database hosted on the web.
+It uses a **MySQL** database hosted on the web.
